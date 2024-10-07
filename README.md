@@ -10,6 +10,7 @@ I'm Alvaro Prado from Perú
 ## 🚀 Technologies & Tools:
 ![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript) 
 ![TypeScript](https://img.shields.io/badge/-TypeScript-333333?style=flat&logo=typescript) 
+![Java](https://img.shields.io/badge/-Java-333333?style=flat&logo=openjdk&logoColor=orange)
 ![HTML5](https://img.shields.io/badge/-HTML5-333333?style=flat&logo=html5) 
 ![CSS3](https://img.shields.io/badge/-CSS3-333333?style=flat&logo=css3) 
 ![Vue.js](https://img.shields.io/badge/-Vue.js-333333?style=flat&logo=vue.js) 
@@ -17,10 +18,11 @@ I'm Alvaro Prado from Perú
 ![TailwindCSS](https://img.shields.io/badge/-TailwindCSS-333333?style=flat&logo=tailwind-css) 
 ![Bootstrap](https://img.shields.io/badge/-Bootstrap-333333?style=flat&logo=bootstrap) 
 ![Node.js](https://img.shields.io/badge/-Node.js-333333?style=flat&logo=node.js) 
-![AWS](https://img.shields.io/badge/-AWS-333333?style=flat&logo=amazon-aws) 
+![AWS](https://img.shields.io/badge/Amazon_AWS-232F3E?style=flat&logo=amazon-web-services&logoColor=white) 
 ![WordPress](https://img.shields.io/badge/-WordPress-333333?style=flat&logo=wordpress) 
 ![Figma](https://img.shields.io/badge/-Figma-333333?style=flat&logo=figma)
 ![Notion](https://img.shields.io/badge/-Notion-333333?style=flat&logo=notion)
+
 ---
 ## 📊 GitHub Stats
 
@@ -35,11 +37,18 @@ I'm Alvaro Prado from Perú
 ## 🌐 Find me at:
 - [![LinkedIn](https://img.shields.io/badge/-LinkedIn-333333?style=flat&logo=Linkedin&logoColor=0077B5)](https://www.linkedin.com/in/alvaro-prado-tenorio/)
 - [![Instagram](https://img.shields.io/badge/-Instagram-333333?style=flat&logo=Instagram&logoColor=E4405F)](https://www.instagram.com/)
-- [![Twitter](https://img.shields.io/badge/-Twitter-333333?style=flat&logo=Twitter&logoColor=1DA1F2)](https://x.com/frontsitoz)
+- [![X](https://img.shields.io/badge/-Twitter-333333?style=flat&logo=X&logoColor=1DA1F2)](https://x.com/frontsitoz)
 - [![Frontend Mentor](https://img.shields.io/badge/-Frontend%20Mentor-333333?style=flat&logo=frontend-mentor)](https://www.frontendmentor.io/profile/frontsitoz)
 
 ---
-<img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExMTU1MzllZDg4OWEzMGMyNWU1Nzc2ZGQxMjE5YTIwMmFjMmJjOTZiOSZlcD12MV91c2VyX2Zhdm9yaXRlcyZjdD1n/2IudUHdI075HL02Pkk/giphy.gif" width="100"/>
+
+<div style="border-radius: 8px; padding: 10px; background-color: #333; display: flex; align-items: center; justify-content: space-between; box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);">
+  <span style="font-size: 14px; color: #fff; font-family: 'Poppins', sans-serif; padding-left: 10px;  flex-wrap-">
+    🚀 Se viene contenido para redes pronto 🚀
+  </span>
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExMTU1MzllZDg4OWEzMGMyNWU1Nzc2ZGQxMjE5YTIwMmFjMmJjOTZiOSZlcD12MV91c2VyX2Zhdm9yaXRlcyZjdD1n/2IudUHdI075HL02Pkk/giphy.gif" width="100" style="border-radius: 8px; margin-left: 10px; margin-right: 8px" />
+</div>
+
 
 ## 🎯 Fun Facts:
 - I love watching and doing sports, especially ⚽️ 🏟️.
