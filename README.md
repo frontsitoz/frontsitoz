@@ -1,34 +1,57 @@
-Hello everyone![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif) My name is Alvaro Prado
-====================================================================================================================================
+<div style="display: flex; align-items: center; justify-content: center;">
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExYWI0MDY3MDBmOTVjOWFmNjRlOTY2MmQwZjM1M2ViYjZiNDczNjJjMiZlcD12MV91c2VyX2Zhdm9yaXRlcyZjdD1z/OvDUoPmWcL3H83zpR5/giphy.gif" width="80" style="margin-right: 20px;"/>
+  <h1 style="font-size: 32px; font-family: Menlo, sans-serif;">Bienvenid@ al GitHub de frontsitoz   👨🏻‍💻</h1>
+</div> 
 
-Front-End Developer
--------------------
+![Banner de Frontsitoz](github-header-image.png)
+## About me:
+I'm Alvaro Prado from Perú 
+🇵🇪🇵, a frontend developer in constant learning. I have almost 3 years of experience working on web applications, SPA's and even interactive games. I'm passionate about creating efficient, modular and performance-optimized user interfaces. I'm currently pursuing a degree in Systems Engineering, while balancing my studies, work and personal projects. I hope I can contribute something to you with my projects.
 
-I'm Alvaro Prado Tenorio, a frontend developer in constant learning. I specialize in technologies like Vue.js and TypeScript, and I have almost 3 years of experience working on web applications, SPA's, and even interactive games. I'm passionate about creating user interfaces that are efficient, modular, and with optimized performance. In addition, I love sharing what I learn every day, not only in the technological field, but also inspiring others in areas such as sports and personal motivation. I'm currently pursuing a degree in Systems Engineering, while balancing my studies, work, and personal projects.
+---
 
-* 🌍  I'm based in Lima, Peru
-* 🖥️  See my portfolio at [My Portfolio](http://frontsitoz.dev)
-* ✉️  You can contact me at [alvarojpt04.ws@gmail.com](mailto:alvarojpt04.ws@gmail.com)
-* 🧠  I'm learning Vue.js
-* 🤝  I'm open to collaborating on interesting projects
-* ⚡  I like watching movies, I don't drink much coffee.
+## 🚀 Technologies & Tools:
+![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript) 
+![TypeScript](https://img.shields.io/badge/-TypeScript-333333?style=flat&logo=typescript) 
+![HTML5](https://img.shields.io/badge/-HTML5-333333?style=flat&logo=html5) 
+![CSS3](https://img.shields.io/badge/-CSS3-333333?style=flat&logo=css3) 
+![Vue.js](https://img.shields.io/badge/-Vue.js-333333?style=flat&logo=vue.js) 
+![Sass](https://img.shields.io/badge/-Sass-333333?style=flat&logo=sass) 
+![TailwindCSS](https://img.shields.io/badge/-TailwindCSS-333333?style=flat&logo=tailwind-css) 
+![Bootstrap](https://img.shields.io/badge/-Bootstrap-333333?style=flat&logo=bootstrap) 
+![Node.js](https://img.shields.io/badge/-Node.js-333333?style=flat&logo=node.js) 
+![AWS](https://img.shields.io/badge/-AWS-333333?style=flat&logo=amazon-aws) 
+![WordPress](https://img.shields.io/badge/-WordPress-333333?style=flat&logo=wordpress) 
+![Figma](https://img.shields.io/badge/-Figma-333333?style=flat&logo=figma)
+![Notion](https://img.shields.io/badge/-Notion-333333?style=flat&logo=notion)
+---
+## 📊 GitHub Stats
 
-<a href="https://www.x.com/frontsitoz" target="_blank" rel="noreferrer"><img
-src="https://img.shields.io/twitter/follow/frontsitoz?logo=twitter&style=for-the-badge&color=0891b2&labelColor=1c1917"
-/></a>
 
-### Skills
+![Stats](https://github-readme-stats.vercel.app/api?username=frontsitoz&include_all_commits=true&count_private=true&show_icons=true&theme=dark)
 
 
-<p align="left">
-<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="36" height="36" alt="JavaScript" /></a><a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/typescript-colored.svg" width="36" height="36" alt="TypeScript" /></a><a href="https://git-scm.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/git-colored.svg" width="36" height="36" alt="Git" /></a><a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/visualstudiocode.svg" width="36" height="36" alt="VS Code" /></a><a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/html5-colored.svg" width="36" height="36" alt="HTML5" /></a><a href="https://www.w3.org/TR/CSS/#css" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/css3-colored.svg" width="36" height="36" alt="CSS3" /></a><a href="https://sass-lang.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/sass-colored.svg" width="36" height="36" alt="Sass" /></a><a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/tailwindcss-colored.svg" width="36" height="36" alt="TailwindCSS" /></a><a href="https://getbootstrap.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/bootstrap-colored.svg" width="36" height="36" alt="Bootstrap" /></a><a href="https://vuejs.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/vuejs-colored.svg" width="36" height="36" alt="Vue" /></a><a href="https://vitejs.dev/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/vite-colored.svg" width="36" height="36" alt="Vite" /></a><a href="https://nuxtjs.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nuxtjs-colored.svg" width="36" height="36" alt="Nuxtjs" /></a><a href="https://nodejs.org/en/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nodejs-colored.svg" width="36" height="36" alt="NodeJS" /></a><a href="https://graphql.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/graphql-colored.svg" width="36" height="36" alt="GraphQL" /></a><a href="https://firebase.google.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/firebase-colored.svg" width="36" height="36" alt="Firebase" /></a><a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mongodb-colored.svg" width="36" height="36" alt="MongoDB" /></a><a href="https://www.figma.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/figma-colored.svg" width="36" height="36" alt="Figma" /></a><a href="https://wordpress.com" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/wordpress-colored.svg" width="36" height="36" alt="Wordpress" /></a><a href="https://aws.amazon.com" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/aws-colored.svg" width="36" height="36" alt="Amazon Web Services" /></a>
-</p>
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=frontsitoz&hide=python,cython,vue,scss&theme=dark)
+
+---
+
+## 🌐 Find me at:
+- [![LinkedIn](https://img.shields.io/badge/-LinkedIn-333333?style=flat&logo=Linkedin&logoColor=0077B5)](https://www.linkedin.com/in/alvaro-prado-tenorio/)
+- [![Instagram](https://img.shields.io/badge/-Instagram-333333?style=flat&logo=Instagram&logoColor=E4405F)](https://www.instagram.com/)
+- [![Twitter](https://img.shields.io/badge/-Twitter-333333?style=flat&logo=Twitter&logoColor=1DA1F2)](https://x.com/frontsitoz)
+- [![Frontend Mentor](https://img.shields.io/badge/-Frontend%20Mentor-333333?style=flat&logo=frontend-mentor)](https://www.frontendmentor.io/profile/frontsitoz)
+
+---
+<img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExMTU1MzllZDg4OWEzMGMyNWU1Nzc2ZGQxMjE5YTIwMmFjMmJjOTZiOSZlcD12MV91c2VyX2Zhdm9yaXRlcyZjdD1n/2IudUHdI075HL02Pkk/giphy.gif" width="100"/>
+
+## 🎯 Fun Facts:
+- I love watching and doing sports, especially ⚽️ 🏟️.
+- I don't drink much ☕️, only in extreme moments.
+- I'm allergic to dust and aerosols.
+- One of my passions, listening to good music 🎶🎶 all day.
+- Open for interesting collaborations🤝🏼
+
+---
 
 
-### Socials
 
-<p align="left"> <a href="https://www.github.com/https://github.com/frontsitoz" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /> </picture> </a> <a href="https://www.linkedin.com/in/alvaro-prado-tenorio/" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /> </picture> </a> <a href="https://www.stackoverflow.com/users/19454759/alvaro-prado-tenorio" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/stackoverflow-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/stackoverflow.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/stackoverflow.svg" width="32" height="32" /> </picture> </a> <a href="https://www.x.com/frontsitoz" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" width="32" height="32" /> </picture> </a> <a href="https://www.threads.net/@frontsitoz" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/threads-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/threads.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/threads.svg" width="32" height="32" /> </picture> </a></p>
-
-### Badges
-
-<a href="https://github.com/https://github.com/frontsitoz" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=https://github.com/frontsitoz&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
