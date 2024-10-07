@@ -43,11 +43,12 @@ I'm Alvaro Prado from Perú
 ---
 
 <div style="border-radius: 8px; padding: 10px; background-color: #333; display: flex; align-items: center; justify-content: space-between; box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);">
-  <span style="font-size: 14px; color: #fff; font-family: 'Poppins', sans-serif; padding-left: 10px;  flex-wrap-">
+  <span style="font-size: 14px; color: #fff; font-family: 'Poppins', sans-serif; padding-left: 10px;">
     🚀 Se viene contenido para redes pronto 🚀
   </span>
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExMTU1MzllZDg4OWEzMGMyNWU1Nzc2ZGQxMjE5YTIwMmFjMmJjOTZiOSZlcD12MV91c2VyX2Zhdm9yaXRlcyZjdD1n/2IudUHdI075HL02Pkk/giphy.gif" width="100" style="border-radius: 8px; margin-left: 10px; margin-right: 8px" />
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExMTU1MzllZDg4OWEzMGMyNWU1Nzc2ZGQxMjE5YTIwMmFjMmJjOTZiOSZlcD12MV91c2VyX2Zhdm9yaXRlcyZjdD1n/2IudUHdI075HL02Pkk/giphy.gif" width="100" style="border-radius: 8px; margin-left: 10px; margin-right: 8px;" />
 </div>
+
 
 
 ## 🎯 Fun Facts:
