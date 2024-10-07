@@ -1,7 +1,4 @@
-<div style="display: flex; align-items: center; justify-content: center;">
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExYWI0MDY3MDBmOTVjOWFmNjRlOTY2MmQwZjM1M2ViYjZiNDczNjJjMiZlcD12MV91c2VyX2Zhdm9yaXRlcyZjdD1z/OvDUoPmWcL3H83zpR5/giphy.gif" width="80" style="margin-right: 20px;"/>
-  <h1 style="font-size: 32px; font-family: Menlo, sans-serif;">Bienvenid@ al GitHub de frontsitoz   👨🏻‍💻</h1>
-</div> 
+# <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExYWI0MDY3MDBmOTVjOWFmNjRlOTY2MmQwZjM1M2ViYjZiNDczNjJjMiZlcD12MV91c2VyX2Zhdm9yaXRlcyZjdD1z/OvDUoPmWcL3H83zpR5/giphy.gif" width="100"/> Bienvenid@ al GitHub de frontsitoz 👨🏻‍💻</h1>
 
 ![Banner de Frontsitoz](github-header-image.png)
 ## About me:
